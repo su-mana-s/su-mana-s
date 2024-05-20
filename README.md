@@ -22,10 +22,5 @@ I love contemplating philosophy and math and the intersections of such fields in
 <!-- END -->
 </table>
 
-
-<!--
-<a href="https://visheshbansal.ml" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-%FF69B4?style=for-the-badge" /></a>
--->
-
   
 

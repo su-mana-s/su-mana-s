@@ -14,6 +14,15 @@ I love contemplating philosophy and math and the intersections of such fields in
 <a href="https://medium.com/@sumanasridharan" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%FF69B4.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>
 <a href="https://instagram.com/s_u.m_a.n_a" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 
+### Latest Articles
+<table>
+<!-- START --><tr>
+  <td><a href="https://medium.com/@sumanasridharan/of-epics-networks-and-bots-79f48cdd3c3f"><img width="140px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*5Ky8ysd5p5wnWHAE"></a></td>
+<td><a href="https://medium.com/@sumanasridharan/of-epics-networks-and-bots-79f48cdd3c3f">Epics, Networks and Bots</a> (May 19, 2024)<br/></td></tr>
+<!-- END -->
+</table>
+
+
 <!--
 <a href="https://visheshbansal.ml" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-%FF69B4?style=for-the-badge" /></a>
 -->

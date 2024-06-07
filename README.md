@@ -28,7 +28,7 @@ I love contemplating philosophy and math and the intersections of such fields in
 
 <!-- START --><tr>
   <td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-2-a0c6ad4f527f"><img width="140px" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*Fs5tpxVmbpkPM9Ma"></a></td>
-<td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-2-a0c6ad4f527f">Network Theory & Analysis with The Ramayan: Code Walkthrough Part 2</a> (May 19, 2024)<br/></td></tr>
+<td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-2-a0c6ad4f527f">A Statistical Dive into The Ramayan: Code Walkthrough Part 2</a> (May 19, 2024)<br/></td></tr>
 <!-- END -->
 
 </table>

@@ -1,4 +1,4 @@
-## Hi 👋
+![image](https://github.com/su-mana-s/su-mana-s/assets/98222724/559a79df-d2d5-4930-81cb-b80e6e0439ae)## Hi 👋
 
 I am a student who loves exploring unprecedented and delightful blends of academic fields. I currently spend my days working in Python, exploring Neural Networks, model architectures, developments in Data Science and whatever else catches my fancy. I also love discovering new problems and thinking about the logic and statistics behind the many systems that drive the digital world today. I am someone who deeply believes that there are very few things that cannot be learnt.
 
@@ -18,8 +18,19 @@ I love contemplating philosophy and math and the intersections of such fields in
 <table>
 <!-- START --><tr>
   <td><a href="https://medium.com/@sumanasridharan/of-epics-networks-and-bots-79f48cdd3c3f"><img width="140px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*5Ky8ysd5p5wnWHAE"></a></td>
-<td><a href="https://medium.com/@sumanasridharan/of-epics-networks-and-bots-79f48cdd3c3f">Epics, Networks and Bots</a> (May 19, 2024)<br/></td></tr>
+<td><a href="https://medium.com/@sumanasridharan/of-epics-networks-and-bots-79f48cdd3c3f">Of Epics, Networks and Bots</a> (May 19, 2024)<br/></td></tr>
 <!-- END -->
+<!-- START --><tr>
+  <td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-1-95f3d9e13e5a"><img width="140px" src="![image](https://github.com/su-mana-s/su-mana-s/assets/98222724/9ab8bf7d-c21c-48fc-a4ba-6181b1e6c106)
+"></a></td>
+<td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-1-95f3d9e13e5a">Of Epics, Networks and Bots</a> (May 19, 2024)<br/></td></tr>
+<!-- END -->
+<!-- START --><tr>
+  <td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-2-a0c6ad4f527f"><img width="140px" src="![image](https://github.com/su-mana-s/su-mana-s/assets/98222724/aef14f4b-c661-4507-8239-cf5058601b3a)
+"></a></td>
+<td><a href="https://medium.com/@sumanasridharan/a-statistical-dive-into-the-ramayan-code-walkthrough-part-2-a0c6ad4f527f">Of Epics, Networks and Bots</a> (May 19, 2024)<br/></td></tr>
+<!-- END -->
+
 </table>
 
   

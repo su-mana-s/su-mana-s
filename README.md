@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a student who loves exploring unprecedented and delightful blends of academic fields. I currently spend my days working in Python, exploring Neural Networks, model architectures, developments in Data Science and whatever else catches my fancy. I also love discovering new problems and thinking about the logic and statistics behind the many systems that drive the digital world today. I am someone who deeply believes that there are very few things that cannot be learnt.
+I am a student who loves exploring unprecedented and delightful blends of academic fields. I currently spend my days exploring Neural Networks, model architectures, developments in Data Science and whatever else catches my fancy. I also love discovering new problems and thinking about the logic and statistics behind the many systems that drive the digital world today. I am someone who deeply believes that there are very few things that cannot be learnt.
 
 I love contemplating philosophy and math and the intersections of such fields in general. I enjoy reading research papers in my leisure while I listen to songs for which my taste changes with the weather.
 

@@ -1,11 +1,8 @@
 ## Hi 👋
 
-I am a student who loves exploring unprecedented and delightful blends of academic fields. I currently spend my days exploring Neural Networks, model architectures, developments in Data Science and whatever else catches my fancy. I also love discovering new problems and thinking about the logic and statistics behind the many systems that drive the world today. 
+I am a student who loves exploring unprecedented and delightful blends of academic fields. I currently spend my days exploring Neural Networks, model architectures and, well, whatever else catches my fancy. I also love discovering new problems and thinking about the logic and statistics behind the many systems that drive the world today. 
 
-I love contemplating philosophy and math and the intersections of such fields in general. 
-
-- 👯 I’m looking to collaborate on research/projects in the fields of AI/ML and Blockchain
-- 💬 Ask me about Books, Philosophy, Math and the Universe!
+I love contemplating philosophy and math and the intersections of such fields in general!
 
 ### Find me on:
 
@@ -15,6 +12,14 @@ I love contemplating philosophy and math and the intersections of such fields in
 <a href="https://instagram.com/s_u.m_a.n_a" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 
 ### Latest Articles
+<table>
+<!-- START --><tr>
+  <td><a href="https://medium.com/@sumanasridharan/exploring-the-effect-of-response-verbosity-on-llm-self-recognition-80832ab2e76f"><img width="140px", height="80px" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*gAVBq6GyfxrbIK6i"></a></td>
+<td><a href="https://medium.com/@sumanasridharan/exploring-the-effect-of-response-verbosity-on-llm-self-recognition-80832ab2e76f">Exploring The Effects Of Response Verbosity On LLM Self-Recognition
+</a> (Aug 12, 2025)<br/></td></tr>
+<!-- END -->
+
+
 <table>
 <!-- START --><tr>
   <td><a href="https://medium.com/@sumanasridharan/of-epics-networks-and-bots-79f48cdd3c3f"><img width="140px", height="80px" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*5Ky8ysd5p5wnWHAE"></a></td>

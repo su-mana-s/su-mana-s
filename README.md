@@ -7,7 +7,6 @@ I am a student who loves exploring unprecedented and delightful blends of academ
 <a href="https://github.com/su-mana-s" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sumana-sridharan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@sumanasridharan" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%FF69B4.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>
-<a href="https://instagram.com/s_u.m_a.n_a" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
 
 ### Latest Articles
 <table>

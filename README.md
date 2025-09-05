@@ -1,8 +1,6 @@
 ## Hi 👋
 
-I am a student who loves exploring unprecedented and delightful blends of academic fields. I currently spend my days exploring Neural Networks, model architectures and, well, whatever else catches my fancy. I also love discovering new problems and thinking about the logic and statistics behind the many systems that drive the world today. 
-
-I love contemplating philosophy and math and the intersections of such fields in general!
+I am a student who loves exploring unprecedented and delightful blends of academic fields. I am currently excited about studying the AI alignment problem and exploring LLM interpretability, evaluations and oversight. 
 
 ### Find me on:
 

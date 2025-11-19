@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a student who loves exploring unprecedented and delightful blends of academic fields. I am currently excited about studying the AI alignment problem and exploring LLM interpretability, evaluations and oversight. 
+Currently excited about studying the AI alignment problem and exploring LLM interpretability, evaluations and oversight. 
 
 ### Find me on:
 

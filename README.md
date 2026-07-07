@@ -8,12 +8,6 @@ Currently excited about studying the AI alignment problem and exploring LLM inte
 - <a href="https://github.com/su-mana-s/ScalableOversight_LLMEvaluators" target="_blank">Scalable Oversight, LLM Evaluators</a>
 - <a href="https://github.com/su-mana-s/mitr-take-home-eval" target="_blank">MITR Take Home Eval</a>
 
-
-
-
-
-
-
 ### Find me on:
 
 <a href="https://github.com/su-mana-s" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -23,8 +17,15 @@ Currently excited about studying the AI alignment problem and exploring LLM inte
 ### Latest Articles
 <table>
 <!-- START --><tr>
+  <td><a href="https://openreview.net/pdf?id=i1fs08L2hC"><img width="140px", height="80px" src="https://media.licdn.com/dms/image/v2/D5622AQFDNiSLmzbSqg/feedshare-shrink_1280/B56ZwieADTHUAg-/0/1770104816704?e=1784764800&v=beta&t=xdXUtYxjgZe50dd6HkM1aF2S0YDlc8oftaAONitR9q4"></a></td>
+<td><a href="https://openreview.net/pdf?id=i1fs08L2hC">Gaming the Answer Matcher: Examining the Impact of Text Manipulation on
+Automated Judgment, AAAI AIGOV 2026
+</a> (Feb 26, 2026)<br/></td></tr>
+<!-- END -->
+  
+  <!-- START --><tr>
   <td><a href="https://medium.com/@sumanasridharan/exploring-the-effect-of-response-verbosity-on-llm-self-recognition-80832ab2e76f"><img width="140px", height="80px" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*gAVBq6GyfxrbIK6i"></a></td>
-<td><a href="https://medium.com/@sumanasridharan/exploring-the-effect-of-response-verbosity-on-llm-self-recognition-80832ab2e76f">Exploring The Effects Of Response Verbosity On LLM Self-Recognition
+<td><a href="https://medium.com/@sumanasridharan/exploring-the-effect-of-response-verbosity-on-llm-self-recognition-80832ab2e76f">Exploring The Effects Of Response Verbosity On LLM Self-Recognition 
 </a> (Aug 12, 2025)<br/></td></tr>
 <!-- END -->
 

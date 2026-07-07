@@ -1,5 +1,18 @@
 #
 Currently excited about studying the AI alignment problem and exploring LLM interpretability, evaluations and oversight. 
+### ML & AI, Evals:
+- <a href="https://github.com/KevorkSulahian/Gaming-the-Answer-Matcher" target="_blank">Gaming the Answer Matcher</a>
+- <a href="https://github.com/su-mana-s/Lock-In-Risk-Benchmark-for-LLM-Agents" target="_blank">Lock In Risk Benchmark</a>
+- <a href="https://github.com/su-mana-s/Semantic-Communication" target="_blank">Semantic Communication</a>
+- <a href="https://github.com/su-mana-s/legal_agents" target="_blank">Legal Agentic Evals</a>
+- <a href="https://github.com/su-mana-s/ScalableOversight_LLMEvaluators" target="_blank">Scalable Oversight, LLM Evaluators</a>
+- <a href="https://github.com/su-mana-s/mitr-take-home-eval" target="_blank">MITR Take Home Eval</a>
+
+
+
+
+
+
 
 ### Find me on:
 
